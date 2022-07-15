@@ -1,0 +1,10 @@
+.vscode
+5.1_OmnifoodContents.zip
+__MACOSX
+dist
+home
+images
+new
+node_modules
+package-lock.json
+start.html
